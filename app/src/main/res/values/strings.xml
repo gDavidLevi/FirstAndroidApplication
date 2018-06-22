@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstAppAndroid</string>
+    <string name="greeting">Hello, David A. Levi</string>
+    <string name="morning">Good morning!</string>
+    <string name="evening">Good evening!</string>
+    <string name="hello">Hello!</string>
+</resources>
